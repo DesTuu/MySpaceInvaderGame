@@ -1,3 +1,3 @@
 # My Space Invader Game
 
-All code in main.py
+I used pygame module, all code in main.py
